@@ -21,11 +21,8 @@
 			<li>push..</li>
 			<li>Test_For..</li>
 			<li>충돌재테스트..won,_fore</li>
-<<<<<<< HEAD
 			<li>외부도구_마스터에서</li>
-=======
 			<li>test3_외부</li>
->>>>>>> 테스트3
 		</ul>
 	</body>
 </html>
