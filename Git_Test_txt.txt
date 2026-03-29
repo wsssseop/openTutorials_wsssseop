@@ -8,6 +8,7 @@
 			<h1>git</h1>
 		</header>
 		<ul>
+			<li>sync...</li>
 			<li>Git 이란?</li>
 			<li>버전 이란?</li>
 			<li>branch </li>
