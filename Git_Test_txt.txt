@@ -1,4 +1,5 @@
 <html>
+<<<<<<< HEAD
 	<header>
 		<title>GIT수업</title>
 	</header>
@@ -6,6 +7,13 @@
 		<li>Git 이란?</li>
 		<li>버전 이란?</li>
 	</ul>
+=======
+	<head>
+		<title>
+			git 소개.
+		</title>
+	</head>
+>>>>>>> 실험
 	<body>
 		<h1>git</h1>
 
