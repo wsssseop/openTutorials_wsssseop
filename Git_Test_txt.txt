@@ -11,6 +11,7 @@
 			<li>버전 이란?</li>
 			<li>branch </li>
 			<li>브랜치 이란?</li>
+			<li>충돌테스트</li>
 		</ul>
 	</body>
 </html>
