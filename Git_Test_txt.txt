@@ -1,7 +1,11 @@
 <html>
+	<head>
+		<title>GIT수업</title>
+	</head>
+	<ul>
+	</ul>
 	<body>
 		<h1>git</h1>
+
 	</body>
-
-
 </html>
