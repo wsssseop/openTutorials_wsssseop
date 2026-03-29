@@ -1,9 +1,10 @@
 <html>
-	<head>
+	<header>
 		<title>GIT수업</title>
-	</head>
+	</header>
 	<ul>
 		<li>Git 이란?</li>
+		<li>버전 이란?</li>
 	</ul>
 	<body>
 		<h1>git</h1>
