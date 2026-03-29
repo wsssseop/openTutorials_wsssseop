@@ -12,6 +12,7 @@
 			<li>branch </li>
 			<li>브랜치 이란?</li>
 			<li>충돌테스트</li>
+			<li>충돌해결</li>
 		</ul>
 	</body>
 </html>
