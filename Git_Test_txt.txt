@@ -17,6 +17,7 @@
 			<li>원격저장소</li>
 			<li>푸시</li>
 			<li>풀</li>
+			<li>push..</li>
 		</ul>
 	</body>
 </html>
