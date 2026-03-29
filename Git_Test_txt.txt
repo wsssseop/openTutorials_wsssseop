@@ -3,6 +3,7 @@
 		<title>GIT수업</title>
 	</head>
 	<ul>
+		<li>Git 이란?</li>
 	</ul>
 	<body>
 		<h1>git</h1>
