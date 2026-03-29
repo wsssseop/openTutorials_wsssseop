@@ -20,7 +20,7 @@
 			<li>풀</li>
 			<li>push..</li>
 			<li>Test_For..</li>
-			<li>충돌재테스트..</li>
+			<li>충돌재테스트..won,_fore</li>
 		</ul>
 	</body>
 </html>
